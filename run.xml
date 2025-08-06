@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RUN_SET>
+  <RUN alias="W15_SC_NANOS1_WT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_WT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SCD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="2b1f3d6e65c745df1ddbf506d9194488"/>
+        <FILE filename="WT_SCD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b1d22120ce1267619a2290928c94ce99"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_NANOS1_WT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_WT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SCD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="d3581b7896c08e88b05809e817356dde"/>
+        <FILE filename="WT_SCD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="5322e786c6e831b430c263d83e56d7a4"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_NANOS1_WT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_WT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SCD_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="6d95c3868ef9f5ee1f3afe65660c66cb"/>
+        <FILE filename="WT_SCD_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="f51053363c53ccf0e4ffe2ea15de3bb7"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_NANOS1_WT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_WT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SC_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="8db16efc50f56ed62dd3171690e8a351"/>
+        <FILE filename="WT_SC_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="21289117a963216d6827502947902be2"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_NANOS1_WT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_WT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SC_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="9276a445f164d5d9941bd6b1df292bb8"/>
+        <FILE filename="WT_SC_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="87a6aa42b3e8ddbc5eb6705e0b7acd3c"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_NANOS1_WT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_WT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SC_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="bea96af68b33f0f4909df4705430ea45"/>
+        <FILE filename="WT_SC_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="ae720eb20917b1a68444a6b529666ae6"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SCD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="240fcf247a6c4165e89be7f52db93a73"/>
+        <FILE filename="MUT_SCD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="0cf478018d06b57a8d73499d17654811"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SCD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="0ecf14068253bf997e35793b0f4567ce"/>
+        <FILE filename="MUT_SCD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="626f8bbab92d73c226d401cb2f0b0cd4"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SCD_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="6ad4e5c1193b9f882e0c5ecae6656250"/>
+        <FILE filename="MUT_SCD_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="984860d42c17eb6818dc1d8597a5740f"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SC_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="ffc7a1314e6f992e1bbb30fba5323482"/>
+        <FILE filename="MUT_SC_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="2eb7b31555a38c3f9af8420b507980c2"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SC_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="28585f41f9d72715a453fc5126e0cc46"/>
+        <FILE filename="MUT_SC_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="c35ec1f5f40e7f88c7ed9c5ea1bb5e72"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SC_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="791b4ed886b6ba6a3bba8381a23be445"/>
+        <FILE filename="MUT_SC_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="629bd6cfae50fa97efdc3d1a84f84282"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SCD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="68c5896bb2a59a77c2a385c48f3e9e6e"/>
+        <FILE filename="W15_SCD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="1ee2fd77013e0d7db07e0829f6d473f5"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SCD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="eaefaa9a91b8b264bfb87531e30e0aa3"/>
+        <FILE filename="W15_SCD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="f95d42312ce9c84e570e082115b7b67b"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SCD_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="7cdccea0bc19ad99c676e0c83465a196"/>
+        <FILE filename="W15_SCD_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="75b85fbd9812dded6ed4366d2a9bf458"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SC_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="34474da1e1c9036617ee547fad162fd2"/>
+        <FILE filename="W15_SC_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="5aff13b9f908f65836af3a505f2dbb50"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SC_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="1d560d30df3d861eb88c22457c6aa856"/>
+        <FILE filename="W15_SC_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="927b04e5d46852e75c48611ccbd28d6d"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SC_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SC_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SC_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="4f65182cee5a01838bcfabb4536abf9c"/>
+        <FILE filename="W15_SC_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="e9b7c23eaa881f213ff01f05cfe9deee"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_WT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_WT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_PMD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="61896a16462e432a621288ea91b80a53"/>
+        <FILE filename="WT_PMD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="906c62fa4e29a0c393ebb8d11ebc7bd1"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_WT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_WT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_PMD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="58f7679bffd0e3b3b1e1a7c05cbd425a"/>
+        <FILE filename="WT_PMD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="4779dfb007ff262b7160564f58a27805"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_WT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_WT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_PMD_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="8f4350e027f03f0e96b95991e41a20c6"/>
+        <FILE filename="WT_PMD_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="7a89cf3354c32ba20e172218311789ad"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_WT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_WT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_PM_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="57bcf56ebb8b86e4b8a811ae49c3c775"/>
+        <FILE filename="WT_PM_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="7d7cda3767f40e4afb98d95e67501e27"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_WT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_WT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_PM_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="e531b5fff070e63f1010a648a2886712"/>
+        <FILE filename="WT_PM_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="d31cf413260913ae54689c099f97e4fe"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_WT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_WT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_PM_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="77f6684105543c92b80dcd0c48f757c0"/>
+        <FILE filename="WT_PM_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="4ee83715d3b13a1104185b8a9f6385c3"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PMD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="6904cb47809557cda08705fcdfae9c70"/>
+        <FILE filename="MUT_PMD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="febec5b42eaad7745e1e899cc68cc268"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PMD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="84346a378bf4b7f05b8e1a48d684bc56"/>
+        <FILE filename="MUT_PMD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="d101fd329714294a4b736e581186bf3b"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PMD_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="436c273b3b7514b75258e0326b1f75fd"/>
+        <FILE filename="MUT_PMD_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="ef44c10044fda02c2913270ecb4b486f"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PM_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="d12ae1aaffe00df29a0fef4f79901f05"/>
+        <FILE filename="MUT_PM_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="dbe516199975ab1b564f6befdf7a8b54"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PM_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="2f014303087dbc34820641908be8a3a1"/>
+        <FILE filename="MUT_PM_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b34577a8292033c83631b757224daa67"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PM_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="eff8555255f0db0ddd94faadbacc0bda"/>
+        <FILE filename="MUT_PM_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="c6186e551e831c5bd8695e3fba31afb6"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PMD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="994770880b90e0bfc7ed438ca5f72df7"/>
+        <FILE filename="W15_PMD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="6186e3a0c05f0839134e8ee8816103c2"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PMD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="f334b94ffcfafb20bf81bc2ac54af7e5"/>
+        <FILE filename="W15_PMD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="0abc973778917be7cacbac212f118324"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PMD_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="4692fea1f962985c066400f6d65d446c"/>
+        <FILE filename="W15_PMD_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b92833eba4a1fc3a673acce269e28eea"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PM_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="2d10a2f275b8034894944dcf4431b33f"/>
+        <FILE filename="W15_PM_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="9e6d957facd6d03f70d4cf258ade4d99"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PM_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="f5fd3a0c8b170eb88a7fe1962fb51743"/>
+        <FILE filename="W15_PM_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="284daa9273a45f78eba9d19709cdb27d"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PM_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PM_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PM_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="75a5f2c74af265f822897f7d0a3b9286"/>
+        <FILE filename="W15_PM_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="366135073478afb2dcc585b3674c53e1"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_NANOS1_WT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_NANOS1_WT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_PGD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="4305e3b76dd8727b53bd1a3a3f82d207"/>
+        <FILE filename="WT_PGD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b937b492bdea71a855d5c6c679271adc"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_NANOS1_WT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_NANOS1_WT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_PGD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="5a5dc1bb279800d623ddb83d33ea44d9"/>
+        <FILE filename="WT_PGD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="11b630de90972b573db0d55e25d13f10"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_NANOS1_WT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_NANOS1_WT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_PG_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="63ecaf9c4bec8cb449c99c7a3d2bc21b"/>
+        <FILE filename="WT_PG_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="0f7b79a694737ac66652f6081950bbe4"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_NANOS1_WT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_NANOS1_WT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_PG_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="cc2197f72a9f6a004852eb8cdc9a73c5"/>
+        <FILE filename="WT_PG_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="f97445e9861c534cecc002d38037500b"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PGD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="08d2d7677ddba3258f6ea970ddbd4b96"/>
+        <FILE filename="MUT_PGD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="69004466839b60fe8e0f2faacedd85c3"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PGD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="0a8a1c0d064e31c3d4e369a47677f11f"/>
+        <FILE filename="MUT_PGD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="00a410b7eded16edf18809524d064555"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PGD_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="31d9145b03f8d142d90c2f023f827b33"/>
+        <FILE filename="MUT_PGD_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="065d4d8ac0b9bc2193bb1ce65edb1a65"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PGD_rep4_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="4cfbbfb29286681d5883653946ce74b2"/>
+        <FILE filename="MUT_PGD_rep4_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="587ea9df7d6f46019f88cb75724b44fc"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PG_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="d28c8e61ee150d391f125670d50ba611"/>
+        <FILE filename="MUT_PG_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b914ac2966058ec80885b984502e1445"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PG_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="8dd6db2a6ad4a09847f729d9fb497a9d"/>
+        <FILE filename="MUT_PG_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="4f766cc9509681d85176a7c589d0dc10"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_PG_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="31870f4bf8d5854f4a65d3e0017de91b"/>
+        <FILE filename="MUT_PG_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="2b05cf4f4aa0445361b67eb3c7dc79c9"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PGD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="42b66b52b56b4b30b4ddf463d272092f"/>
+        <FILE filename="W15_PGD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="07053f34a18e39c9409f12dc40d349a3"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PGD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="754c952ef14a9a49360056b38e140f74"/>
+        <FILE filename="W15_PGD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="3f5e85a60234bdbbd7215c020b7aab75"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PGD_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="cac1856e8f8f7bc9377119a736ed52b6"/>
+        <FILE filename="W15_PGD_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="ffa621e4240fdd8abdc75a8df13cc750"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PG_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="8cd86fd2b459dd8e6a36b62c0cb02c56"/>
+        <FILE filename="W15_PG_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="91fcab63ece746c1f5e1dc67e3e18f96"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PG_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="45378a1b1a32eb31306cef105a1102d2"/>
+        <FILE filename="W15_PG_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="2455612b38a779c8e0de9e82e552e73b"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_PG_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_PG_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_PG_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="e20bb5b261eeb338273a77067c87e3d9"/>
+        <FILE filename="W15_PG_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="5e9c036b51cfc16f9b6c6c85267c6c1a"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_WT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_WT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SOD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="c905dff28477d91115334fd8d1c1802c"/>
+        <FILE filename="WT_SOD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="29b783af40672b8caddda30b9c00f560"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_WT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_WT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SOD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="e54d3e4f386a7edee0368f25e4612b72"/>
+        <FILE filename="WT_SOD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="0b472af50858404426cd268c6d051578"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_WT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_WT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SOD_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="0c2e2a285056288b72775c4eb233dca0"/>
+        <FILE filename="WT_SOD_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="7ad91c7f4ac3eb8818e5000483da02c4"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_WT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_WT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SO_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="f5d758643e25391032be651d4a61bf60"/>
+        <FILE filename="WT_SO_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="d62fedbc2b5f69fa8ffbf3e0a0723bb4"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_WT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_WT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SO_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="15989078f486c7450ffe1879a81f087d"/>
+        <FILE filename="WT_SO_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="0b99ac3aad1a8ab2bdf05b06a4fd0d11"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_WT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_WT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="WT_SO_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="93ba7f9b5cd4c005758e26e6fdca00e4"/>
+        <FILE filename="WT_SO_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="2fbada155bc1d04383ce7d9320c1feb6"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SOD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="59f94a63c2e03326281ba3df6e2ae7e0"/>
+        <FILE filename="MUT_SOD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="56787d3b7852a10caa72dd6194f07b6e"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SOD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="1548f370db3cbee46e9447b554eb8c4d"/>
+        <FILE filename="MUT_SOD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="4c19dc9c42dedd4cdd0fcb8e9fb0bbb0"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_MUT_OE_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_MUT_OE_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SOD_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="a80c4afe68c384b82aad696d61381485"/>
+        <FILE filename="MUT_SOD_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b13b8038459d55e5ce8a89766b11ffdd"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SO_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="bd25e296303196047d927830c409278d"/>
+        <FILE filename="MUT_SO_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="82b442e9ab427d00dbabedd295a65b1c"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SO_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b880ae69d1a16f278640eaf445a9a4d9"/>
+        <FILE filename="MUT_SO_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="9c0fe33647eeaffbcd8a18b10e1a72c0"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_NANOS1_MUT_OE_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_NANOS1_MUT_OE_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="MUT_SO_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="9a2b9e9fc2d50b27bd66f6fb1494eefb"/>
+        <FILE filename="MUT_SO_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="d7e0b490a345a114db610a82c84753eb"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SOD_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="19cb27bf2f857922080e056ce4eb659a"/>
+        <FILE filename="W15_SOD_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="2ad3d2528e0367311dcce464bc5f23a7"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SOD_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b58a1fbbeeb18e32e423dca6c9ee7a9f"/>
+        <FILE filename="W15_SOD_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="7c83e54caa6d9bbc645f28c0dcfa012d"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_DOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_DOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SOD_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="d567ef9081f52f0feca52b8a4013345f"/>
+        <FILE filename="W15_SOD_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="7efd536206a217eae66a86b64ff7f8ff"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SO_rep1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="c99da182e5bdc199e8d77c972d0e0336"/>
+        <FILE filename="W15_SO_rep1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="ab429f4eed5195b3550ed02a439a838c"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SO_rep2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="8f13413555cdf63fd54133bd69c4488e"/>
+        <FILE filename="W15_SO_rep2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="d69c30ada4e2af8c15912ed5b7d509ed"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+  <RUN alias="W15_SO_noDOX__RNAseq_PE__run">
+    <EXPERIMENT_REF refname="W15_SO_noDOX__RNAseq_PE"/>
+    <DATA_BLOCK>
+      <FILES>
+        <FILE filename="W15_SO_rep3_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="65d2e793147ef137d0ba8c5ece377a63"/>
+        <FILE filename="W15_SO_rep3_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b27f78d154db584b27637e73666136a6"/>
+      </FILES>
+    </DATA_BLOCK>
+  </RUN>
+</RUN_SET>

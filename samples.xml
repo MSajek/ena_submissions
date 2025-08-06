@@ -1,0 +1,699 @@
+<?xml version="1.0" ?>
+<SAMPLE_SET>
+  <SAMPLE alias="W15_SC_NANOS1_WT_OE_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, stem cells, 1 overexpression, NANOS1_WT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>stem cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>1</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_SC_NANOS1_WT_OE_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, stem cells, 0 overexpression, NANOS1_WT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>stem cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_SC_NANOS1_MUT_OE_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, stem cells, 1 overexpression, NANOS1_MUT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>stem cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>1</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_MUT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_SC_NANOS1_MUT_OE_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, stem cells, 0 overexpression, NANOS1_MUT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>stem cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_MUT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_SC_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, stem cells, 0 overexpression, WT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>stem cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_SC_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, stem cells, 0 overexpression, WT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>stem cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PM_NANOS1_WT_OE_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, pre-mesodermal, 1 overexpression, NANOS1_WT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>pre-mesodermal</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>1</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PM_NANOS1_WT_OE_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, pre-mesodermal, 0 overexpression, NANOS1_WT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>pre-mesodermal</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PM_NANOS1_MUT_OE_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, pre-mesodermal, 1 overexpression, NANOS1_MUT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>pre-mesodermal</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>1</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_MUT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PM_NANOS1_MUT_OE_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, pre-mesodermal, 0 overexpression, NANOS1_MUT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>pre-mesodermal</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_MUT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PM_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, pre-mesodermal, 0 overexpression, WT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>pre-mesodermal</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PM_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, pre-mesodermal, 0 overexpression, WT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>pre-mesodermal</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PG_NANOS1_WT_OE_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, primordial germ cells, 1 overexpression, NANOS1_WT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>primordial germ cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>1</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PG_NANOS1_WT_OE_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, primordial germ cells, 0 overexpression, NANOS1_WT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>primordial germ cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PG_NANOS1_MUT_OE_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, primordial germ cells, 1 overexpression, NANOS1_MUT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>primordial germ cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>1</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_MUT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PG_NANOS1_MUT_OE_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, primordial germ cells, 0 overexpression, NANOS1_MUT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>primordial germ cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_MUT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PG_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, primordial germ cells, 0 overexpression, WT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>primordial germ cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_PG_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, primordial germ cells, 0 overexpression, WT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>primordial germ cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_SO_NANOS1_WT_OE_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, somatic cells, 1 overexpression, NANOS1_WT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>somatic cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>1</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_SO_NANOS1_WT_OE_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, somatic cells, 0 overexpression, NANOS1_WT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>somatic cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_SO_NANOS1_MUT_OE_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, somatic cells, 1 overexpression, NANOS1_MUT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>somatic cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>1</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_MUT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_SO_NANOS1_MUT_OE_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, somatic cells, 0 overexpression, NANOS1_MUT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>somatic cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>NANOS1_MUT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_SO_DOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, somatic cells, 0 overexpression, WT, doxycycline treated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>somatic cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>yes</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+  <SAMPLE alias="W15_SO_noDOX" center_name="IHG PAS">
+    <TITLE>Human cell line W15, somatic cells, 0 overexpression, WT, doxycycline untreated</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+    </SAMPLE_NAME>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>cell_line</TAG>
+        <VALUE>W15</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>differentiation_stage</TAG>
+        <VALUE>somatic cells</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>overexpression</TAG>
+        <VALUE>0</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>genotype</TAG>
+        <VALUE>WT</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>doxycycline_treatment</TAG>
+        <VALUE>no</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+</SAMPLE_SET>

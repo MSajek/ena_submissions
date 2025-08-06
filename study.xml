@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2025-08-04T15:10:34.656+01:00" submissionFile="submission.xml" success="true">
+     <PROJECT accession="PRJEB95022" alias="43a94fc9-6725-4151-9cf6-190970d0187f" status="PRIVATE" holdUntilDate="2027-08-04+01:00">
+          <EXT_ID accession="ERP177787" type="study"/>
+     </PROJECT>
+     <SUBMISSION accession="ERA33678234" alias="SUBMISSION-04-08-2025-15:10:34:554"/>
+     <MESSAGES>
+          <INFO>All objects in this submission are set to private status (HOLD).</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>HOLD</ACTIONS>
+</RECEIPT>
